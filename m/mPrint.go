@@ -3,5 +3,5 @@ package m
 import "fmt"
 
 func MPrint() {
-	fmt.Println("MPrint")
+	fmt.Println("MPrint tag")
 }
